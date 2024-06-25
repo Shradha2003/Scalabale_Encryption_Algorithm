@@ -14,4 +14,4 @@ SEA_ALGORITHM is implemented in Verilog and includes several submodules to handl
 ### Prerequisites
 
 - Verilog simulator or synthesis tool (e.g., ModelSim, Xilinx Vivado)
-- Basic understanding of Verilog and digital design.
+
